@@ -11,3 +11,9 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 ## First setup
 
 **[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+
+Create your own codespace by clicking on this link https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=552004987
+
+choose default configurations and click on create codespace.
+It will automatically create codespace with default configurations.
+Now run docker-compose up command in the codespace terminal just got opened.
